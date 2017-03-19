@@ -1,18 +1,32 @@
 ## 이현근 포트폴리오
 
 ### 프로젝트
-[Spring 게시판](https://github.com/nikerun23/guestbook)
+[Spring 게시판 (바로가기)](https://github.com/nikerun23/guestbook)
+
+### 개요
+* **Spring Framework** 이용 및 **Spring Security** 적용한 방명록 게시판입니다.
+
+### 주요 기술
+* 참여도: **개인프로젝트**
 * JAVA, **Spring, MyBatis, SpringSecurity**, JSP, EL
 * HTML, CSS, BootStrap, JavaScript, jQuery
 * Oracle, Apache Tomcat v8.0, Eclipse, Atom
 <br>
 
-[성적관리시스템](https://github.com/nikerun23/gradeprocess/tree/master/gradeprocess)
+
+[성적관리시스템 (바로가기)](https://github.com/nikerun23/gradeprocess/tree/master/gradeprocess)
+
+### 개요
+* 교육기관의 인적 관리와 수강생에 대한 교육 과정을 등록, 교육 과정의 기본 정보 관리, 강사는 수강생의 성적을 부여하여 관리 할 수 있습니다.
+
+### 주요 기술
+* 참여도: **40%**
 * 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
 * 웹 화면 구성: HTML, CSS, BootStrap, JavaScript
 * 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, EL
 * DB액션 처리: JDBC
 * 개발 Tool : Eclipse, SVN, Apache Tomcat v8.0, VisualSVN Server Manager
+<br>
 
 ## 쌍용교육센터 이수 교육 내역서
 
