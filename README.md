@@ -9,6 +9,7 @@
 ### 주요 기술
 * 참여도: **개인프로젝트**
 * JAVA, **Spring, MyBatis, SpringSecurity**, JSP, EL
+* Git(SourceTree), GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery
 * Oracle, Apache Tomcat v8.0, Eclipse, Atom
 <br>
