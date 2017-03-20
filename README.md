@@ -59,4 +59,4 @@
   
 - **Spring 3.0 / MyBatis (184시간)**<br>
   Spring3.0의 특징 및 모듈 설정, Spring DI 객체간의 의존성 주입에 대한 이해와 실습,<br>
-  Spring MVC처리, Spring Security, Spring ORM의 사용, MyBatis 연동
+  Spring MVC처리, Spring Security, Spring ORM의 사용, MyBatis 연동, Spring Tool Suite
