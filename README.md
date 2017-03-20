@@ -1,17 +1,17 @@
 ## 이현근 포트폴리오
 
 ### 프로젝트
-[Spring 게시판 (바로가기)](https://github.com/nikerun23/guestbook)
+[직원관리 시스템 (바로가기)](https://github.com/nikerun23/employee)
 
 ### 개요
-* **Spring Framework** 이용 및 **Spring Security** 적용한 방명록 게시판입니다.
+* **Spring Framework**를 이용한 직원관리 및 **Spring Security**를 이용한 관리자 전용 페이지
 
 ### 주요 기술
 * 참여도: **개인프로젝트**
-* JAVA, **Spring, MyBatis, SpringSecurity**, JSP, EL
+* JAVA, **Spring, MyBatis, SpringSecurity**, 이미지 파일 업로드, JSP, EL
 * Git(SourceTree), GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery
-* Oracle, Apache Tomcat v8.0, Eclipse, Atom
+* Spring Tool Suite, Oracle, Apache Tomcat v8.0
 <br>
 
 
@@ -28,6 +28,21 @@
 * DB액션 처리: JDBC
 * 개발 Tool : Eclipse, SVN, Apache Tomcat v8.0, VisualSVN Server Manager
 <br>
+
+
+[Spring 게시판 (바로가기)](https://github.com/nikerun23/guestbook)
+
+### 개요
+* **Spring Framework** 이용 및 **Spring Security** 적용한 방명록 게시판입니다.
+
+### 주요 기술
+* 참여도: **개인프로젝트**
+* JAVA, **Spring, MyBatis, SpringSecurity**, JSP, EL
+* Git(SourceTree), GitHub
+* HTML, CSS, BootStrap, JavaScript, jQuery
+* Oracle, Apache Tomcat v8.0, Eclipse, Atom
+<br>
+
 
 ## 쌍용교육센터 이수 교육 내역서
 
