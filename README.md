@@ -14,14 +14,14 @@
 * 웹 화면 구성: HTML, CSS, BootStrap, JavaScript
 * 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, EL
 * DB액션 처리: JDBC
-* 개발 Tool : Eclipse, SVN, Apache Tomcat v8.0, VisualSVN Server Manager
+* 개발 Tool : Eclips, Atom, SVN, Apache Tomcat v8.0, VisualSVN Server Manager
 <br>
 
 
 [직원관리 시스템 (바로가기)](https://github.com/nikerun23/employee)
 
 ### 개요
-* **Spring Framework**를 이용한 직원관리 및 **Spring Security**를 이용한 관리자 전용 페이지
+* **Spring Framework**를 이용한 직원관리 및 **Spring Security**를 이용한 계정 권한 부여
 
 ### 공헌한 내용
 * 참여도: **개인프로젝트**
@@ -42,7 +42,7 @@
 * JAVA, **Spring, MyBatis, SpringSecurity**, JSP, EL
 * Git(SourceTree), GitHub
 * HTML, CSS, BootStrap, JavaScript, jQuery
-* Oracle, Apache Tomcat v8.0, Eclipse, Atom
+* Eclipse, Atom, Oracle, Apache Tomcat v8.0
 <br>
 
 
